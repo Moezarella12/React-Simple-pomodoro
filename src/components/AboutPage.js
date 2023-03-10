@@ -23,7 +23,7 @@ const AboutPage = () => {
   return (
     <Wrapper>
       <h1>
-        <Title href='https://github.com/nehahirve/tommy-toes'>Tommy Toe</Title>
+        <Title href='https://github.com/Moezarella12/React-simple-pomodoro.git'>Angry Pomo</Title>
       </h1>
       <p>
         is a minimalist pomodoro timer. It works. No fancy features here,
