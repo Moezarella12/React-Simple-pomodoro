@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/React-simple-pomodoro/static/css/main.be1caeaa.css",
+    "main.js": "/React-simple-pomodoro/static/js/main.fd97b6bd.js",
+    "static/media/alarm.wav": "/React-simple-pomodoro/static/media/alarm.0b403865228e49e71e26.wav",
+    "static/media/work.mp3": "/React-simple-pomodoro/static/media/work.4b5d53060d45d66cfe88.mp3",
+    "static/media/Agrandir-GrandHeavy.otf": "/React-simple-pomodoro/static/media/Agrandir-GrandHeavy.543cbb93e2f4479f4c39.otf",
+    "static/media/Agrandir-WideLight.otf": "/React-simple-pomodoro/static/media/Agrandir-WideLight.efd6d44de261ac30a7dc.otf",
+    "static/media/Telegraf-Regular.otf": "/React-simple-pomodoro/static/media/Telegraf-Regular.0c6d87bb06a137bca9a3.otf",
+    "index.html": "/React-simple-pomodoro/index.html",
+    "main.be1caeaa.css.map": "/React-simple-pomodoro/static/css/main.be1caeaa.css.map",
+    "main.fd97b6bd.js.map": "/React-simple-pomodoro/static/js/main.fd97b6bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be1caeaa.css",
+    "static/js/main.fd97b6bd.js"
+  ]
+}
